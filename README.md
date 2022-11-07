@@ -10,7 +10,7 @@ WALC 2022 - Panama - Track 7 – Inteligencia Artificial Aplicada
   - Videos in Spanish
 
 ### Day_1:
-+ [[Slides]]()
++ [[Slides]](day_1/) 
 + [[Morning Video]]()
 + [[Afternoon Video]]()
 ### Day_2:

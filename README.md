@@ -14,6 +14,7 @@ WALC 2022 - Panama - Track 7 – Inteligencia Artificial Aplicada
 + [[Morning Video]]()
 + [[Afternoon Video]]()
 ### Day_2:
++ [[Slides]](day_2/) 
 + [[Morning Video]]()
 + [[Afternoon Video]]()
 ### Day_3:

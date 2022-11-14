@@ -36,20 +36,25 @@ This course will be divided into two main parts: Fundamentals and Applications.
 5. DNN - Classification (Hands-On with CoLab)
 6. DNN Recap & ML Metrics
 7. Introduction to Convoluctions
-8. Image Classification using Convolutions (CNN)
-8a. Preventing Overfitting
+8. Image Classification using Convolutions (CNN)  - Preventing Overfitting
 + [[Slides]](day_2/) 
 + [[Morning Video]](https://youtu.be/NisQSkHd-SQ)
 + [[Afternoon Video]](https://youtu.be/OTSOHNKk8Ok)
 ### Day_3:
+9. Deep Learning (DL) Wrap-up
+10. Embedded ML (TyniML) Intro & Applications
+11. Image Classification Intro & Hands-On using Edge Impulse
 + [[Slides]](day_3/) 
 + [[Morning Video]](https://youtu.be/Y-oCM7eURCw)
 + [[Afternoon Video]](https://youtu.be/DxzgU8iXvKM)
 ### Day_4:
+12. Sound Classification Intro & Hands-On
+13. Motion Classification & Hands-On
 + [[Slides]](day_4/) 
-+ [[Morning Video]]() - Video will be available soon
-+ [[Afternoon Video]]() - Video will be available Soon
++ [[Morning Video]](https://youtu.be/w2XgizNT36c)
++ [[Afternoon Video]](https://youtu.be/ui-4m2omTPg)
 ### Day_5:
+13. (Review and conclusion previous day) Anomaly Detecion & Hands-On
+14. Applied AI Track Wrap-up
 + [[Slides]](day_5/) 
-+ [[Morning Video]]() - Video will be available soon
-+ [[Afternoon Video]]() - Video will be available soon
++ [[Morning Video]](https://youtu.be/D9hBOwr7biE)

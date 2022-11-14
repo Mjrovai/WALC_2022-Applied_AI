@@ -30,8 +30,6 @@ This course will be divided into two main parts: Fundamentals and Applications.
 + ["Technical Strategy for AI Engineers, In the Era of Deep Learning" by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
 + ["Python for Data Analysis by Wes MacKinney"](https://wesmckinney.com/book/)
 
-WALC 2022 Track 7 is part of the [TinyML4D](https://tinyml.seas.harvard.edu/), an initiative to make Embedded Machine Learning (TinyML) education available to everyone globally, enabling innovative solutions for the unique challenges faced by Developing Countries.  
-
 ## Material 
 - All material will be uploaded to this repo at the classes' base
   - Slides, Noteboooks, Code and Docs in English 
@@ -71,3 +69,7 @@ WALC 2022 Track 7 is part of the [TinyML4D](https://tinyml.seas.harvard.edu/), a
 14. Applied AI Track Wrap-up
 + [[Slides]](day_5/) 
 + [[Morning Video]](https://youtu.be/D9hBOwr7biE)
+
+<hr>
+
+WALC 2022 Track 7 is part of the [TinyML4D](https://tinyml.seas.harvard.edu/), an initiative to make Embedded Machine Learning (TinyML) education available to everyone globally, enabling innovative solutions for the unique challenges faced by Developing Countries.  

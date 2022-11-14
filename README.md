@@ -37,7 +37,6 @@ This course will be divided into two main parts: Fundamentals and Applications.
 6. DNN Recap & ML Metrics
 7. Introduction to Convoluctions
 8. Image Classification using Convolutions (CNN)
-
 8a. Preventing Overfitting
 + [[Slides]](day_2/) 
 + [[Morning Video]](https://youtu.be/NisQSkHd-SQ)

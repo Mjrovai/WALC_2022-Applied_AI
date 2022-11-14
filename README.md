@@ -1,5 +1,5 @@
 # WALC_2022-Applied_AI
-WALC 2022 - Panama - Track 7 – Inteligencia Artificial Aplicada
+[WALC 2022 - Panama - Track 7 – Inteligencia Artificial Aplicada](https://eslared.net/walc2022/track-7-inteligencia-artificial-aplicada/)
 
 <img src='track7.png'/>
 <hr>

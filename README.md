@@ -65,7 +65,7 @@ This course will be divided into two main parts: Fundamentals and Applications.
 + [[Morning Video]](https://youtu.be/w2XgizNT36c)
 + [[Afternoon Video]](https://youtu.be/ui-4m2omTPg)
 ### Day_5:
-13. (Review and conclusion previous day) Anomaly Detecion & Hands-On
+13. (Review and previous day's conclusion) Anomaly Detecion & Hands-On
 14. Applied AI Track Wrap-up
 + [[Slides]](day_5/) 
 + [[Morning Video]](https://youtu.be/D9hBOwr7biE)

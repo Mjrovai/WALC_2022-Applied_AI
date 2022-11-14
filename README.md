@@ -72,4 +72,4 @@ This course will be divided into two main parts: Fundamentals and Applications.
 
 <hr>
 
-WALC 2022 Track 7 is part of the [TinyML4D](https://tinyml.seas.harvard.edu/), an initiative to make Embedded Machine Learning (TinyML) education available to everyone globally, enabling innovative solutions for the unique challenges faced by Developing Countries.  
+WALC 2022 Track 7 is part of the [TinyML4D](https://tinyml.seas.harvard.edu/), an initiative to make Embedded Machine Learning (TinyML) education available to everyone, explicitly enabling innovative solutions for the unique challenges faced by Developing Countries.  

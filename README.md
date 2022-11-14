@@ -42,7 +42,7 @@ This course will be divided into two main parts: Fundamentals and Applications.
 + [[Afternoon Video]](https://youtu.be/OTSOHNKk8Ok)
 ### Day_3:
 9. Deep Learning (DL) Wrap-up
-10. Embedded ML (TyniML) Intro & Applications
+10. Embedded ML (TinyML) Intro & Applications
 11. Image Classification Intro & Hands-On using Edge Impulse
 + [[Slides]](day_3/) 
 + [[Morning Video]](https://youtu.be/Y-oCM7eURCw)
